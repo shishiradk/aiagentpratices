@@ -49,5 +49,5 @@ Event Checking AI Agent is an automated system built using **n8n** that integrat
 - Implement voice command support.
 
 ## License
-This project is open-source. Feel free to use and modify it as needed.
+This project is open-source. Feel free to use and modify if needed.
 
